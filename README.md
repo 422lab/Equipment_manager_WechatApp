@@ -3,7 +3,7 @@
 ~~可能会有亿点点BUG~~ 
 
 微信搜一搜科艺电子设备预约系统进去看看
-![Image](https://github.com/Funqiewei/img-folder/blob/main/WechatIcon.jpg)
+![Image width="100px"](https://github.com/Funqiewei/img-folder/blob/main/WechatIcon.jpg)
 
 对接完了
 
