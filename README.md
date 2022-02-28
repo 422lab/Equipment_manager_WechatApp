@@ -1,12 +1,11 @@
 ~~基本还不能用只能看 等对接完才行~~
 
-~~可能会有亿点点BUG~~ 
+~~可能会有亿点点BUG~~ 对接完了芜湖
 
 微信搜一搜科艺电子设备预约系统进去看看或者扫一扫
 
 <img width="300px" src="https://github.com/Funqiewei/img-folder/blob/main/WechatIcon.jpg"/>
 
-对接完了
 
 # weproject
 
